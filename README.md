@@ -2,7 +2,7 @@
 2020 NTU WebIR Final - Team 6
 
 ## Link to our report
-https://github.com/joe0123/Optimal-Query-Recommendation-Model/blob/master/Optimal_Query_Recommendation_Model.pdf
+[Report](https://github.com/joe0123/Optimal-Query-Recommendation-Model/blob/master/Optimal_Query_Recommendation_Model.pdf)
 
 ## This repository includes four method implemented in our final project
 * In each folder
